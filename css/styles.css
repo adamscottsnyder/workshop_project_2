@@ -1,5 +1,5 @@
 h1 {
-  color: #5179ba;
+  color: #black;
 }
 
 body {
@@ -7,7 +7,7 @@ body {
 }
 
 .list-item {
-  font-family:monospace;
+  font-family:'Times New Roman', Times, serif;
 }
 
 #css-item {
